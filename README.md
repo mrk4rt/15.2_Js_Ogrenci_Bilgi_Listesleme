@@ -1,0 +1,2 @@
+# 15.2_Js_Ogrenci_Bilgi_Listesleme
+15.2_Js_Ogrenci_Bilgi_Listesleme
